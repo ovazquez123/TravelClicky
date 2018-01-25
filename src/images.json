@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "imageURL": "https://www.lacity.org/sites/g/files/wph781/f/styles/tiled_homepage_blog/public/bigstock-sun-176475085.jpg?itok=Q9NNNBYj"
+    },
+    {
+        "id": 2,
+        "imageURL": "http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1444253482/DG2015-san-francisco.jpg?itok=MdRJm2Zo"
+    },
+    {
+        "id": 3,
+        "imageURL": "https://fortunedotcom.files.wordpress.com/2016/08/san-diego-533206575.jpg"
+    },
+    {
+        "id": 4,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwT1CVL1i-4Z66Ur8qkPUfNg8rsQ9s5uPKLJRUCaFv2YOuLkCA9Q"
+    },
+    {
+        "id": 5,
+        "imageURL": "https://media-cdn.tripadvisor.com/media/photo-s/07/72/27/a3/chicago.jpg"
+    },
+    {
+        "id":6,
+        "imageURL": "https://www.city-journal.org/sites/cj/files/New-York.jpg"
+    },
+    {
+        "id": 7,
+        "imageURL": "https://www.portlandoregon.gov/shared/cfm/image.cfm?id=628547"
+    },
+    {
+        "id": 8,
+        "imageURL": "http://travelercorner.com/wp-content/uploads/2016/03/Las-Vegas-Sign-at-enterance.jpeg"
+    },
+    {
+        "id": 9,
+        "imageURL": "https://www.homeadvisor.com/images/consumer/hhi/hero-photos/city/Pittsburgh.jpg"
+    },
+    {
+        "id": 10,
+        "imageURL": "https://media.npr.org/assets/img/2016/11/01/ap_16300697154102_wide-bf96ee2220ed96b105223bd62d7880fadc03e35e-s900-c85.jpg"
+    },
+    {
+        "id": 11,
+        "imageURL": "http://cdn1.bostonmagazine.com/wp-content/uploads/sites/2/2017/10/winterweather.jpg"
+    },
+    {
+        "id": 12,
+        "imageURL": "https://robertwanderer.weebly.com/uploads/1/0/0/5/100504006/baltimore-3_orig.jpg"
+    }
+]

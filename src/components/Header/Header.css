@@ -1,0 +1,11 @@
+.jumbotron {
+    margin-bottom: 0px;
+    color: black;
+    background-image: url(../../images/travel.jpg);
+    background-repeat: repeat;
+    padding: 30px 0px;
+}
+
+header > h1 {
+    color: dark-grey;
+}

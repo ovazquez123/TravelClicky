@@ -1,0 +1,17 @@
+.card {
+    height: 150px;
+    width: 200px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+.card:hover {
+    opacity: 0.35;
+}
+
+img {
+	height: 150px;
+	width: 200px;
+	padding: 0;
+}
